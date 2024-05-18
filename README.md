@@ -1,4 +1,4 @@
-# Hi there, I'm Emmanuel (Kwesi) Mensah! 👋
+# Hi there, I'm Emmanuel K. Mensah! 👋
 
 - 👀 I’m interested in bridging the gap between computer engineering and electrical engineering, with a special focus on web development, IoT, and data science.
 - 🌱 I’m currently learning Django for back-end development and React for front-end development. I'm also delving into data science to broaden my tech skills.
