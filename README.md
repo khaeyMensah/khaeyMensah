@@ -11,7 +11,7 @@
 
 ## About Me
 
-I'm a final-year Computer Engineering student at the University of Energy and Natural Resources in Ghana. With hands-on experience as an electrician assistant and over three years as an electrician at Ankobra Beach Resort, coupled with an internship at ECG, I've developed a diverse skill set that spans both fields. My goal is to become a proficient full-stack web developer, creating innovative solutions that leverage my background in electrical engineering.
+I'm a final-year Computer Engineering student at the University of Energy and Natural Resources in Ghana. With hands-on experience as an electrician assistant and over three years as an electrician, coupled with an internship at ECG, I've developed a diverse skill set that spans both fields. I aim to become a proficient full-stack web developer, creating innovative solutions that leverage my background in electrical engineering.
 
 ## Skills
 
@@ -33,7 +33,7 @@ I'm a final-year Computer Engineering student at the University of Energy and Na
 ### Operating Systems
 - Windows (Proficient)
 - Linux (Basic)
-- macOS (Familiar with)
+- macOS (Intermediate)
 
 ### Design Software
 - Adobe Photoshop (Intermediate)
